@@ -1,0 +1,15 @@
+export const SIGN_IN = 'SIGN_IN';
+export const SIGN_OUT = 'SIGN_OUT';
+export const SIGN_IN_FAIL = 'SIGN_IN_FAIL';
+export const CATEGORY_GET_PRODUCTS = 'CATEGORY_GET_PRODUCTS';
+export const FETCH_CATS = 'FETCH_CATS';
+export const SELECT_ADDRESS = 'SELECT_ADDRESS';
+export const EDIT_ADDRESS = 'EDIT_ADDRESS';
+export const DELETE_ADDRESS = 'DELETE_ADDRESS';
+export const ADD_ADDRESS = 'ADD_ADDRESS';
+export const FETCH_ADDRESSES = 'FETCH_ADDRESSES';
+export const PAY_MODE = 'PAY_MODE';
+export const SET_NEW = 'SET_NEW';
+export const UPLOAD_IMG = 'UPLOAD_IMG';
+export const UPLOAD_IMG_CLEAR = 'UPLOAD_IMG_CLEAR';
+export const FORM_CHANGE = 'FORM_CHANGE';
