@@ -1,12 +1,5 @@
 # dbms-project
 
-collab0rator :
-muskan7898
-samanwita-2003
-Neeraj127
-SymmetricEntropy
-camperjett
-
 # Commands to run:
 
 ### before making any changes:
